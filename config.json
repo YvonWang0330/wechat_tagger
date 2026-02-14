@@ -1,0 +1,24 @@
+{
+  "tags": {
+    "education": {
+      "name": "教育信息",
+      "enabled": true,
+      "examples": ["博士", "硕士", "本科", "清华", "北大", "985", "211"]
+    },
+    "hometown": {
+      "name": "籍贯/地域",
+      "enabled": true,
+      "examples": ["北京人", "上海", "广州", "东北", "四川"]
+    },
+    "personality": {
+      "name": "性格特征",
+      "enabled": true,
+      "examples": ["开朗", "内向", "幽默", "稳重", "急性子", "温柔"]
+    },
+    "interests": {
+      "name": "兴趣爱好",
+      "enabled": true,
+      "examples": ["篮球", "旅游", "电影", "游戏", "阅读", "健身"]
+    }
+  }
+}

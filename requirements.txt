@@ -1,0 +1,5 @@
+# 微信好友标签化工具
+openai>=1.12.0
+python-dotenv>=1.0.0
+rich>=13.7.0
+questionary>=2.0.0
